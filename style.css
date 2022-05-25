@@ -1,0 +1,109 @@
+body, html {
+    height: 100%;
+    margin:0;
+    font-family: 'Poppins', sans-serif;
+    line-height: 60%;
+  }
+
+  .container {
+      max-width: 100%;
+      padding-left: 0px!important;
+      padding-right: 0px!important;
+  }
+
+  .container-fluid {
+      padding: 0px !important;
+      margin-bottom:0px!important;
+      height: 100%;
+  }
+
+
+  .navbar-toggler {
+      margin-right: 20px;
+      border: none;
+  }
+
+
+ 
+.navbar-toggler-icon {
+    background-image: url(
+"data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E")!important;
+}
+
+
+.hero-image-1  {
+    background-image: url(img/home-background-2.png);
+    background-position: center;;
+    background-attachment: fixed;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    background-size: cover;
+    padding-top: 30%;
+    padding-bottom: 30%;
+    height: 100%;
+    background-color: #8a05054d;
+}
+
+
+.hero-image-2 {
+    background-image: url(img/story-background.jpg);
+    background-position: center;;
+    background-attachment: fixed;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    background-size: cover;
+    padding-top: 30%;
+    padding-bottom: 30%;
+    height: 100%;
+}
+
+.hero-image-3 {
+    background-image: url(img/product-background.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    background-size: cover;
+    padding-top: 30%;
+    padding-bottom: 30%;
+    height: 100%;
+}
+
+.hero-text-1 {
+    text-align: center!important;
+    padding-bottom: 15%;
+    background-color: #8a05054d;
+    padding-top: 15%;
+    
+}
+
+.linea-separatrice {
+    margin: 20px auto;
+    color: #8a0505;
+    border: 3px solid #8a0505;
+    max-width: 65px;
+    opacity: 1;
+
+}
+
+.btn {
+    border-radius: 0%;
+    border-color: black;
+}
+
+
+.footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-family: monospace;
+    line-height: 150%;
+    
+   
+
+}
